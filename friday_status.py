@@ -1,0 +1,3 @@
+STATUS = "Sleeping"
+LAST_COMMAND = ""
+LAST_RESPONSE = ""

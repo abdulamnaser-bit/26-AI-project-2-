@@ -1,0 +1,26 @@
+{
+    "favourite bike": "GT 650",
+    "favourite colour": "black",
+    "dog name": "jax",
+    "name": "Nasir",
+    "current_project": "friday ai phase 2",
+    "last_success": "Boss fixed a bug",
+    "assistant name": "Friday",
+    "favorite_bike": "GT 650",
+    "favourite car": "BMW M4",
+    "achievements": [
+        "Boss fixed a bug",
+        "Boss fixed a bug",
+        "Boss finished a project"
+    ],
+    "session_notes": [
+        "Boss fixed a bug",
+        "Boss finished a project",
+        "Boss worked on Website Monitor System",
+        "Boss worked on Website Monitor System",
+        "Boss worked on Website Monitor System",
+        "Boss worked on Website Monitor System"
+    ],
+    "goal": "to build Friday",
+    "favourite cricket player": "Virat Kohli"
+}
